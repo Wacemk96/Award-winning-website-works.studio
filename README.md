@@ -25,7 +25,7 @@ We would like to express our gratitude to [Sheriyan Coding School](https://www.y
 
 ## Get Started
 
-To explore our award-winning website design, simply [visit the live demo](#) and experience the magic firsthand!
+To explore our award-winning website design, simply [visit the live demo](https://wacemk96.github.io/Award-winning-website-works.studio/) and experience the magic firsthand!
 
 ## Feedback
 
